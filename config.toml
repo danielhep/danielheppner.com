@@ -1,4 +1,4 @@
-title = "Osprey Example Site"
+title = "Daniel Heppner"
 baseURL = "https://dumbass.danielheppner.com"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
@@ -10,9 +10,7 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "Osprey Example Site"
-    author = "Toma Nistor"
-    description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+    tagline = ["Tinkerer", "Web Dev", "Electrical Engineering Student"]
     logoBig = "/images/osprey-logo.png"
     logoSmall = "/images/osprey-logo.png"
     favicon = "favicon.ico"
